@@ -1,0 +1,24 @@
+.movieDetails {
+  display: flex;
+  gap: 40px;
+  margin: 20px 0;
+}
+
+.movieDetails__part {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  gap: 30px;
+}
+.movieDetails__heading {
+  color: rgb(3, 108, 108);
+  font-size: 34px;
+}
+.movieDetails__text {
+  padding-top: 10px;
+  font-weight: 500;
+  font-size: 18px;
+}
+.movieDetails__title {
+  font-size: 24px;
+}
